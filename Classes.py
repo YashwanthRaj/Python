@@ -72,8 +72,3 @@ dog1.walk()
 cat1 = Cat()
 cat1.pee() 
 cat1.meow()
-        
-
-
-
-  
