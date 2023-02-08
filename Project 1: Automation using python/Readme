@@ -1,0 +1,7 @@
+Here we are trying to automate certain functions in Spreadsheets using python, Primary objective here is to decrease the value of an entire column by 10%
+
+pip install openpyxl - package required for this project 
+
+main - Python file to automate process
+transactions - The Excel sheet on which we are performing operations
+transactions2 - The Excel sheet after operations are performed
