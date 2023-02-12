@@ -1,0 +1,29 @@
+Depending on Age and Gender , we are going to predict the genre of music listeners 
+
+Steps involved in Machine Learning
+1) Importing the Data: Usually in the form of csv file, we import data which we use to develop the model
+2) Clean the data (Data Pre-Processing): This step involves tasks like removing null, incomplete and duplicate values, changing parameters according to problem statement, etc
+3) Split data into Training/Testing sets: Training is used for model building the model, then metrics evaluation using testing set
+4) Create a model: Creating model which takes in the dataset and extracts features in order to predict/Classify, choosing from several models available for different purposes
+5) Training the model: Here we train the model with training set
+6) Make Predistions/Classifications: Once model is trained, we test its metrics
+7) Evaluate and Improve: This is where we try to improve the accuracy of results, can be done by changing the parameters inside the model 
+
+Libraries for ML
+Numpy - Provides Multi-Dimensional Array
+Pandas - Data analysis Library, provides a concept called dataframe(2d data structure similar to spreadsheet) which holds the data 
+MatPlotLib - 2d plotting Library for creating plots
+Scikit-Learn - Provides common Libraries like Decision Tree
+
+Algorithm - Decision Tree
+
+Music Dataset Link - http://bit.ly/music-csv
+vgsales Dataset Link - https://www.kaggle.com/datasets/gregorut/videogamesales
+Dataset Source - Kaagle
+
+
+* If we press h key on a cell which is in command mode [If the cell is in Blue color], We will get a list of all shortcuts 
+* Press shift and tab together with cursor on a function name, it will give a description about the function and how to use it 
+
+
+Model Persistance - We train a model and store it in a file, we then use this model whwnever required [Model stored in .dot format file]
